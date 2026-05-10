@@ -7,7 +7,7 @@ Hi, I'm Manoj Kumar Reddy. I am an aspiring Data Analyst and Machine Learning En
 ## 🌟 Featured Projects
 
 ### 1. Exploratory Data Analysis: India Road Accidents
-*(See files: `India_Road_Accidents_EDA.ipynb` & `accident_prediction_india.csv`)*
+*(See files: `Exploratory_Data_Analysis_India_Road_Accidents.ipynb` & `accident_prediction_india.csv`)*
 
 **Objective:** Analyzed a real-world dataset of 3,000 road accidents in India to identify high-risk zones, environmental triggers, and yearly trends to extract actionable road safety insights.
 
