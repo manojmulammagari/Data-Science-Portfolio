@@ -1,31 +1,29 @@
-# Data Science Portfolio
+# 📊 Data Science & Analytics Portfolio
 
-A collection of my data analysis and machine learning projects.
-**Note:** This repository is currently being set up. Projects will be added soon (first: EDA, more upcoming).
-
-## 📁 Planned Contents
-
-- Exploratory Data Analysis (EDA)
-- Machine Learning Models
-- Data Cleaning Scripts
-- Visualization Examples
-
-## 🚀 How to Use (Soon)
-
-Projects will be organized in folders, each with its own README and instructions.
-Once available, you can clone with:
-```bash
-git clone https://github.com/manojmulammagari/Data-Science-Portfolio.git
-```
-
-## 📈 Stay Tuned
-
-My first EDA project will be added this week; more to come next month.
-
-## 📜 License
-
-MIT License (to be added once code is published)
+Hi, I'm Manoj Kumar Reddy. I am an aspiring Data Analyst and Machine Learning Engineer. This repository is a collection of my data cleaning, exploratory data analysis (EDA), and upcoming machine learning projects.
 
 ---
 
-*Watch this repo for updates!*
+## 🌟 Featured Projects
+
+### 1. Exploratory Data Analysis: India Road Accidents
+*(See files: `India_Road_Accidents_EDA.ipynb` & `accident_prediction_india.csv`)*
+
+**Objective:** Analyzed a real-world dataset of 3,000 road accidents in India to identify high-risk zones, environmental triggers, and yearly trends to extract actionable road safety insights.
+
+**Tools Used:** Python, Pandas, NumPy, Matplotlib
+
+**Key Business Insights:**
+* **Regional Risk:** Extracted and visualized the top 5 most dangerous states, identifying regions with the highest frequency of severe accidents.
+* **Environmental Factors:** Conducted a weather distribution analysis, revealing that **42.8%** of accidents occur during adverse weather conditions (Rainy: 21.6%, Stormy: 21.2%).
+* **Alcohol Impact:** Filtered and visualized alcohol-related accidents, identifying high-risk regions requiring stricter DUI enforcement.
+
+---
+
+### 2. Machine Learning Practice Models (Coming Soon)
+*This section will contain future implementations of fundamental machine learning algorithms (e.g., Linear Regression, Logistic Regression).*
+
+---
+**Connect with me:**
+* [LinkedIn](Add_Your_URL_Here)
+* [Email](mailto:manojmulammagari@gmail.com)
