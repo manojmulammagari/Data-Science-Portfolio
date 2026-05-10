@@ -25,5 +25,5 @@ Hi, I'm Manoj Kumar Reddy. I am an aspiring Data Analyst and Machine Learning En
 
 ---
 **Connect with me:**
-* [LinkedIn](Add_Your_URL_Here)
+* [LinkedIn](https://www.linkedin.com/in/manoj-mulammagari-68624b3b4/)
 * [Email](mailto:manojmulammagari@gmail.com)
