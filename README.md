@@ -19,11 +19,6 @@ Hi, I'm Manoj Kumar Reddy. I am an aspiring Data Analyst and Machine Learning En
 * **Alcohol Impact:** Filtered and visualized alcohol-related accidents, identifying high-risk regions requiring stricter DUI enforcement.
 
 ---
-
-### 2. Machine Learning Practice Models (Coming Soon)
-*This section will contain future implementations of fundamental machine learning algorithms (e.g., Linear Regression, Logistic Regression).*
-
----
 **Connect with me:**
 * [LinkedIn](https://www.linkedin.com/in/manoj-mulammagari-68624b3b4/)
 * [Email](mailto:manojmulammagari@gmail.com)
