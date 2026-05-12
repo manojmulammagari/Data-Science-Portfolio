@@ -19,6 +19,6 @@ Hi, I'm Manoj Kumar Reddy. I am an aspiring Data Analyst and Machine Learning En
 * **Alcohol Impact:** Filtered and visualized alcohol-related accidents, identifying high-risk regions requiring stricter DUI enforcement.
 
 ---
-**Connect with me:**
+**Connect with me:** 
 * [LinkedIn](https://www.linkedin.com/in/manoj-mulammagari-68624b3b4/)
 * [Email](mailto:manojmulammagari@gmail.com)
